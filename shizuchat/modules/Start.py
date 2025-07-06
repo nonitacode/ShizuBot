@@ -59,11 +59,11 @@ EMOJIOS = [
 ]
 
 
-BOT = "https://files.catbox.moe/6px3gg.jpg"
+BOT = "https://files.catbox.moe/5fpl9p.jpg"
 IMG = [
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
+    "https://files.catbox.moe/5fpl9p.jpg",
+    "https://files.catbox.moe/5fpl9p.jpg",
+    "https://files.catbox.moe/5fpl9p.jpg",
 ]
 
 
